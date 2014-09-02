@@ -1,8 +1,9 @@
 AppEnginePythonProxy
 ===============
 
+Google App Engine Proxy program and local proxy.
 
-Codigo Original: 
+Original Code: 
 https://code.google.com/p/gappproxy/
 http://gappproxy.sourceforge.net/
 
